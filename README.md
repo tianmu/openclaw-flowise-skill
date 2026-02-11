@@ -38,3 +38,7 @@
 ## 许可
 
 与 OpenClaw 及 Flowise 的许可保持一致；具体以各自项目为准。
+
+---
+
+**English:** [README.en.md](README.en.md)
