@@ -1,3 +1,5 @@
+[中文](README.md) | **English**
+
 # OpenClaw Flowise Skill
 
 A **Flowise** skill for **OpenClaw** that interacts with [Flowise](https://github.com/FlowiseAI/Flowise) AI workflows via REST API.
@@ -38,7 +40,3 @@ Configure Flowise server URL, API key, default flow ID, and per-flow usage/param
 ## License
 
 Follow the licenses of OpenClaw and Flowise respectively.
-
----
-
-**中文:** [README.md](README.md)

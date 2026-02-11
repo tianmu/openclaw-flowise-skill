@@ -1,3 +1,5 @@
+[English](README.en.md) | **中文**
+
 # OpenClaw Flowise Skill
 
 这是 **OpenClaw** 的 Flowise 技能（Skill），用于通过 REST API 与 [Flowise](https://github.com/FlowiseAI/Flowise) AI 工作流交互。
@@ -38,7 +40,3 @@
 ## 许可
 
 与 OpenClaw 及 Flowise 的许可保持一致；具体以各自项目为准。
-
----
-
-**English:** [README.en.md](README.en.md)
