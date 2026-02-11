@@ -1,0 +1,8 @@
+{
+    "name": "flowise",
+    "version": "1.0.0",
+    "description": "Interact with Flowise AI workflows via REST API",
+    "author": "tianmu",
+    "license": "MIT",
+    "keywords": ["flowise", "workflow", "api"]
+  }
